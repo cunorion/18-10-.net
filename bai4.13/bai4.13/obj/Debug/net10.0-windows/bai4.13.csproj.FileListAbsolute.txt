@@ -1,0 +1,17 @@
+D:\code\.net\bai4.13\bai4.13\obj\Debug\net10.0-windows\bai4.13.csproj.GenerateResource.cache
+D:\code\.net\bai4.13\bai4.13\obj\Debug\net10.0-windows\bai4.13.GeneratedMSBuildEditorConfig.editorconfig
+D:\code\.net\bai4.13\bai4.13\obj\Debug\net10.0-windows\bai4.13.AssemblyInfoInputs.cache
+D:\code\.net\bai4.13\bai4.13\obj\Debug\net10.0-windows\bai4.13.AssemblyInfo.cs
+D:\code\.net\bai4.13\bai4.13\obj\Debug\net10.0-windows\bai4.13.csproj.CoreCompileInputs.cache
+D:\code\.net\bai4.13\bai4.13\obj\Debug\net10.0-windows\bai4._13.BookModel.resources
+D:\code\.net\bai4.13\bai4.13\bin\Debug\net10.0-windows\bai4.13.exe
+D:\code\.net\bai4.13\bai4.13\bin\Debug\net10.0-windows\bai4.13.deps.json
+D:\code\.net\bai4.13\bai4.13\bin\Debug\net10.0-windows\bai4.13.runtimeconfig.json
+D:\code\.net\bai4.13\bai4.13\bin\Debug\net10.0-windows\bai4.13.dll
+D:\code\.net\bai4.13\bai4.13\bin\Debug\net10.0-windows\bai4.13.pdb
+D:\code\.net\bai4.13\bai4.13\obj\Debug\net10.0-windows\bai4.13.dll
+D:\code\.net\bai4.13\bai4.13\obj\Debug\net10.0-windows\refint\bai4.13.dll
+D:\code\.net\bai4.13\bai4.13\obj\Debug\net10.0-windows\bai4.13.pdb
+D:\code\.net\bai4.13\bai4.13\obj\Debug\net10.0-windows\bai4.13.genruntimeconfig.cache
+D:\code\.net\bai4.13\bai4.13\obj\Debug\net10.0-windows\ref\bai4.13.dll
+D:\code\.net\bai4.13\bai4.13\obj\Debug\net10.0-windows\bai4.13.csproj.Up2Date

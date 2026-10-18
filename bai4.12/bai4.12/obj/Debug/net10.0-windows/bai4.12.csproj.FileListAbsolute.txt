@@ -1,0 +1,17 @@
+D:\code\.net\bai4.12\bai4.12\bin\Debug\net10.0-windows\bai4.12.exe
+D:\code\.net\bai4.12\bai4.12\bin\Debug\net10.0-windows\bai4.12.deps.json
+D:\code\.net\bai4.12\bai4.12\bin\Debug\net10.0-windows\bai4.12.runtimeconfig.json
+D:\code\.net\bai4.12\bai4.12\bin\Debug\net10.0-windows\bai4.12.dll
+D:\code\.net\bai4.12\bai4.12\bin\Debug\net10.0-windows\bai4.12.pdb
+D:\code\.net\bai4.12\bai4.12\obj\Debug\net10.0-windows\bai4.12.csproj.GenerateResource.cache
+D:\code\.net\bai4.12\bai4.12\obj\Debug\net10.0-windows\bai4.12.GeneratedMSBuildEditorConfig.editorconfig
+D:\code\.net\bai4.12\bai4.12\obj\Debug\net10.0-windows\bai4.12.AssemblyInfoInputs.cache
+D:\code\.net\bai4.12\bai4.12\obj\Debug\net10.0-windows\bai4.12.AssemblyInfo.cs
+D:\code\.net\bai4.12\bai4.12\obj\Debug\net10.0-windows\bai4.12.csproj.CoreCompileInputs.cache
+D:\code\.net\bai4.12\bai4.12\obj\Debug\net10.0-windows\bai4.12.dll
+D:\code\.net\bai4.12\bai4.12\obj\Debug\net10.0-windows\refint\bai4.12.dll
+D:\code\.net\bai4.12\bai4.12\obj\Debug\net10.0-windows\bai4.12.pdb
+D:\code\.net\bai4.12\bai4.12\obj\Debug\net10.0-windows\bai4.12.genruntimeconfig.cache
+D:\code\.net\bai4.12\bai4.12\obj\Debug\net10.0-windows\ref\bai4.12.dll
+D:\code\.net\bai4.12\bai4.12\obj\Debug\net10.0-windows\bai4.12.csproj.Up2Date
+D:\code\.net\bai4.12\bai4.12\obj\Debug\net10.0-windows\bai4._12.MemberModel.resources
